@@ -1,2 +1,3 @@
 # SnCheats-4.0
-SnCheats 4.0 Bypass !
+--Install cheat engine https://www.cheatengine.org/downloads.php
+--Install SnCheats | My cheats
